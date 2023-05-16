@@ -163,3 +163,9 @@ Step 1: Visit https://icon.kitchen/ or any other appicon builder website and dow
 Step 2:  Extract Zip folder,  open ios folder -> AppIcon.appiconset , drag AppIcon.appiconset to image assets folder.
 
 Uninstall the app and rerun the app.
+
+
+# Reference:
+
+-> https://icon.kitchen/ 
+
